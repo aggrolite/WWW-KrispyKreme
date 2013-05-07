@@ -46,6 +46,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/aggrolite/WWW-KrispyKreme/issues"
+      },
+      "homepage" : "https://github.com/aggrolite/WWW-KrispyKreme",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/aggrolite/WWW-KrispyKreme.git",
+         "web" : "https://github.com/aggrolite/WWW-KrispyKreme"
+      }
+   },
    "version" : "0.01",
    "x_contributors" : [
       "Curtis Brandt <curtisjbrandt@gmail.com>"
