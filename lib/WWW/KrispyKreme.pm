@@ -11,7 +11,7 @@ __END__
 
 =head1 NAME
 
-WWW::KrispyKreme - root namespace for Krisy Kreme modules
+WWW::KrispyKreme - root namespace for Krisy Kreme modules. This module currently does nothing.
 
 =head1 SYNOPSIS
 
